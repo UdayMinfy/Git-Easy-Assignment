@@ -1,0 +1,6 @@
+Hello, this is the read.txt file where this file is used for second commit .
+URL Shortener: High-Level Design Goals
+Accept a long URL and return a short one.
+Redirect users to the original URL when the short link is accessed.
+Handle high read traffic.
+Ensure uniqueness of short links.
