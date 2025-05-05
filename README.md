@@ -15,7 +15,7 @@ This created a .git folder inside the project directory to start tracking versio
 Read.txt – The main file used to track changes across commits.
 
 ## ✅ Git Workflow
-# 🔹 First Commit
+### 🔹 First Commit
 
 git add Read.txt
 git commit -m "First commit"
@@ -23,13 +23,13 @@ Added the file Read.txt to the repository.
 
 No content was added yet (0 insertions, 0 deletions).
 
-# 🔹 Second Commit
+### 🔹 Second Commit
 
 git add Read.txt
 git commit -m "Second commit"
 Added 6 lines about a URL shortener system design.
 
-# 🔹 Third Commit
+### 🔹 Third Commit
 
 git add Read.txt
 git commit -m "Third commit"
@@ -37,7 +37,7 @@ Updated the file to replace previous content with more advanced system design pr
 
 13 insertions, 6 deletions.
 
-# 🔍 Git Commands Used
+## 🔍 Git Commands Used
 1. View Git Log
 
 git log
