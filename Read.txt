@@ -1,6 +1,13 @@
-Hello, this is the read.txt file where this file is used for second commit .
-URL Shortener: High-Level Design Goals
-Accept a long URL and return a short one.
-Redirect users to the original URL when the short link is accessed.
-Handle high read traffic.
-Ensure uniqueness of short links.
+Hello, this is the read.txt file where this file is used for third commit .
+ Practice Designing Real Systems
+Start with simple ones and increase complexity:
+
+URL shortener (e.g., TinyURL)
+
+File storage service (e.g., Google Drive)
+
+Messaging system (e.g., WhatsApp)
+
+Video streaming platform (e.g., YouTube)
+
+Ride-sharing app (e.g., Uber)
