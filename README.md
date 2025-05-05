@@ -68,17 +68,18 @@ URL shortener design with a list of real-world system design examples like TinyU
 
 ![image](https://github.com/user-attachments/assets/d5453721-02c0-4bc5-880d-774091b33c5d)
 
+## Task 2 of Easy Assignment 
+
+1. Created and switched to a feature/update-readme branch
+2. Modified the Readme.md file
+3. pushed to github
+4. Create a pull request from "feature/update-readme" to main branch
+5. Review and merge the pull request
+6. 
+### Screenshot of the successful pull request and merge 
+![Screenshot 2025-05-05 160146](https://github.com/user-attachments/assets/e3748749-294b-4873-8fef-134fd8a1fe4c)
 
 
 
-## 🧠 Summary
-This project helps you:
 
-Understand the basic Git workflow (init, add, commit, diff, log)
-
-Learn how to trace changes across versions
-
-Practice reading and understanding diffs
-
-Get familiar with organizing commits and messages properly
 
